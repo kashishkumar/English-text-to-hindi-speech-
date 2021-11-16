@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "english-to-hindi-audiobook",
+  "private_key_id": "10299c01fe55b6591f03c46fad56a2e477b01d7a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCU3ysfZA+GYRU\nb424hNNcgRppuYZwjRprJwO1EPgE5wziYFNjWqOHWe9z5+J9Otmq0/1tbre34h5V\nS3W9EK71qMq7w8fyLu/lOH63JbRb9GcVo14y+Di4SFfTXrBNiuwnm5xK/DvWc1IE\n3umimK3dAcdZgYQlHEVSNOci1nVK9D9aDJ4zM459QUPH/n8DIz7PjHrNPc/WGogw\nL4V8jmrqo42Y9Hg2Bivq9J6pQawHnytByWeHNMpeS6yGQLgpAQDRn5005AtcOd3l\nuUrv96H3TXL6yczq8TdGzTUT4bcf3ItjV80L31ZM6+uOppCmJ+GeeJhz0DA1aWU0\nqvL+foHpAgMBAAECggEABK3R8K1NTdF7eDT/apP4KuAI7MbEz+z11+KmmjOAZU3S\n55h+KYRDL70goN/SekVyfESCc6IY1lqhdFhOy3CdZdjcmMzMAa7To+dKVcqYnyYx\nXToDyKJlazqCstoy0IspyIJcrwmHv1Ajh25+naWjehDS5frSXbpiiOoxLouPY3CX\nUuMhsZX0s7neaIbpyCYnAoRGLsOLTa/d4qWe3hLr3Be1PZt9K57XBcemDAl9pBdx\nCL1b3ZBQssKmAVPrPy/kwu+yyGWU9ZXdymsFlg21+BNf7CjKIKemVqHkb54QR/bN\nyfeYhIUBj93lPSCpe5upnK6Yk6cvaJQt6WAFNE4uAQKBgQD2H4yXuo7wZw2k3NEA\no0lU9X6GWZgVnXav1d/0I3oVL8zbnMPxjln/k8t37+Ap8y1ioifZEOkhWWnaRLKW\nJ9+aAYg/L5wtWm2Gif/5f8QJpa+M+hrCZATUmFkfeJbQzdvR6EUJ4RCrv9QQJYJU\nuwS+rGi07rSlRopuLVYkFSJ9YQKBgQDKH9IFDpndFXXKAgAE2oIe9HO46CxeMu8w\nhd5o1wEz0kUeym25F0kbsUCKYoAPSc4SkkOwYYAuMry1YgN+nvVIgNkdwwgNg3Lk\nIN1VKEkBepr6hPLOl4HNDxsCN+0llfa00C6WX3KBhwQ1xPrtrfPkRMQVxWO5sZ1Y\nHWfbg0EJiQKBgQDO55rTetvrMVcA/zkcZiihqXdiDjOSCDvcedm5bZGV+gcnn9QB\nX4A9IMvt2dQCsBG5V0RUcKjrhjU8boALRx3sY9lb9PRAFEL61UxBPK1axtSbmS2h\nuV9uMVzK3h87DbP79F0FfxT6rVri8AVuoYHNoTas0/c88d4x3R8LWlESQQKBgEnq\nzyR4TX6TnYrtplIgEtv9K+DgT3F3kQ+etVKD5nWsHQkAoJXC1UKiVOcG1KxConEa\nOlTjozvB5E808/A3c547OKtwqp4+hyK0fhzpaaF30/tv6VfyAk8aihcKmthW+mzv\ngUoOx9JkrP549gc7yWieWVNY53p+YPtbbaLSYlN5AoGBAL7QA1je7ldhyqP9oInJ\nl2r0NnRfTdmqfVXzdVvHYSX2zn15KGAyGQ3IuNAe0BAZMbtLf12OPGcV6QkpI9F4\nNTCta4yNnPw+XVUVIne8ocsYncBwUh416TZiGHIiEpJn1hRxRlWl96M/zzYtCdqH\nh05pEu7GeZNPzUa0Xq+C2dlZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "text-to-hindi-audio@english-to-hindi-audiobook.iam.gserviceaccount.com",
+  "client_id": "114531512614690936081",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/text-to-hindi-audio%40english-to-hindi-audiobook.iam.gserviceaccount.com"
+}
